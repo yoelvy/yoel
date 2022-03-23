@@ -1,7 +1,7 @@
 /**
    * Create By Nover Store.
    * Contact Me on wa.me/6285781375237
-   * Follow https:///
+   * Follow https:///*/
 
 require('./config')
 const { default: hisokaConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
